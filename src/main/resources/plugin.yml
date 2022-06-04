@@ -1,0 +1,6 @@
+name: PvpToggle
+version: '${project.version}'
+main: com.cooleg.pvptoggle.PvpToggle
+api-version: 1.18
+commands:
+  pvp:
